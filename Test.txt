@@ -1,2 +1,2 @@
-hello world with github in development branch code pulled and displayed in vs code
-
+hello world with github in development branch code pulled and displayed in vs code 
+and now it's pushed in github
