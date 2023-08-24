@@ -1,1 +1,1 @@
-the two develoment and testing branches are merged
+testing branch merged
