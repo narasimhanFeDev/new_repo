@@ -1,2 +1,1 @@
-hello world with github in development branch code pulled and displayed in vs code 
-and now it's pushed in github
+the two develoment and testing branches are merged
